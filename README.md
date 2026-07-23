@@ -18,7 +18,7 @@
 
 ```
 
-### `$ SOFTWARE ENGINEER & WEB DEVELOPER `
+### `SOFTWARE ENGINEER & WEB DEVELOPER `
 
 Halo, gua Tio 👋
 
