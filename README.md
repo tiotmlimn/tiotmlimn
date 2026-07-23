@@ -18,7 +18,7 @@
 
 ```
 
-### `MOBILE DEVELOPER & WEB DEVELOPER `
+### `MOBILE DEVELOPER & WEB DEVELOPER`
 
 Halo, gua Tio 👋
 
@@ -26,7 +26,7 @@ Gua suka bikin **hal-hal yang beneran jalan** — bukan cuma tampilan yang cakep
 
 ### `# yang lagi gua ulik`
 
-* **Frontend modern**: React, ngaturnya state management, samaUX yang kerasa enteng pas dipakai.
+* **Frontend modern**: React, ngaturnya state management, sama UX yang kerasa enteng pas dipakai.
 * **Workflow dev**: otomasi, CI/CD simpel, dan kebiasaan nulis kode yang rapi.
 * **Belajar in public**: ngedokumentasiin prosesnya, bukan cuma pajang hasil akhir doang.
 
@@ -41,17 +41,16 @@ Gua suka bikin **hal-hal yang beneran jalan** — bukan cuma tampilan yang cakep
 * Fitur yang keren tapi gak ada yang pake, sama aja boong.
 * **Belajar paling cepet itu ya pas bikin sesuatu yang nyata**, bukan cuma sekadar nonton tutorial.
 
-### `# tech stack yang sering gua pake`
+### `# tech stack`
 
-* **Bahasa**: JavaScript, Dart, PHP
-* **Framework**: React, Flutter, Laravel
-* **Lainnya**: Firebase,MySQL, plus dikit-dikit nyomot dari tempat lain
+* **Web**: JavaScript, PHP, React, Laravel
+* **Mobile**: Dart, Flutter
+* **Database & Cloud**: Firebase, MySQL
 
 ### `# kalau mau ngobrol`
 
 * Tertarik diskusi soal web development, arsitektur frontend, atau proyek open-source?
-* Kontak gue aja lewat [Email](tiotamamul@gmail.com) — selalu seneng buat tuker pikiran.
+* Kontak gue aja lewat [Email](mailto:tiotamamul@gmail.com) — selalu seneng buat tuker pikiran.
 
 ---
-
-terakhir di-update: lagi bikin sesuatu yang baru
+Terakhir di-update: lagi bikin sesuatu yang baru
