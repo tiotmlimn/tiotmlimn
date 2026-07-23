@@ -19,6 +19,7 @@
 ```
 
 MOBILE DEVELOPER & WEB DEVELOPER
+
 Hi, I'm Tio 👋
 
 I like building things that actually work — not just pretty UIs, but system architecture with clear logic, easy maintainability, and seamless user experience. Most of my time is spent somewhere between frontend code and debugging at 1 AM.
