@@ -18,7 +18,7 @@
 
 ```
 
-### `APPS DEVELOPER & WEB DEVELOPER `
+### `MOBILE DEVELOPER & WEB DEVELOPER `
 
 Halo, gua Tio 👋
 
