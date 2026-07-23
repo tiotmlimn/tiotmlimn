@@ -44,8 +44,8 @@ Gua suka bikin **hal-hal yang beneran jalan** — bukan cuma tampilan yang cakep
 ### `# tech stack yang sering gua pake`
 
 * **Bahasa**: JavaScript, Dart, PHP
-* **Framework**: Node.js, Flutter, Laravel
-* **Lainnya**: Git, Docker, MySQL, plus dikit-dikit nyomot dari tempat lain
+* **Framework**: React, Flutter, Laravel
+* **Lainnya**: Firebase,MySQL, plus dikit-dikit nyomot dari tempat lain
 
 ### `# kalau mau ngobrol`
 
