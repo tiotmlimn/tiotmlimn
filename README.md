@@ -1,3 +1,4 @@
+```
               _
              | |
              | |===( )   //////
@@ -13,8 +14,9 @@
 ------------------------|||-------------||-||------||-||-------
                         |__>            || ||      || ||
 
-
      hit any key to continue
+```
+
 ### `$ SOFTWARE ENGINEER • WEB DEVELOPER • LIFELONG LEARNER`
 
 Halo, saya Tio 👋
