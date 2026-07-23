@@ -18,39 +18,40 @@
 
 ```
 
-### `MOBILE DEVELOPER & WEB DEVELOPER`
+MOBILE DEVELOPER & WEB DEVELOPER
+Hi, I'm Tio 👋
 
-Halo, gua Tio 👋
+I like building things that actually work — not just pretty UIs, but system architecture with clear logic, easy maintainability, and seamless user experience. Most of my time is spent somewhere between frontend code and debugging at 1 AM.
 
-Gua suka bikin **hal-hal yang beneran jalan** — bukan cuma tampilan yang cakep, tapi sistem yang alurnya jelas, gampang dirawat, dan enak pas dipakai. Sebagian besar waktu gua abis di antara kodingan frontend, sama pusing debugging jam 1 pagi.
+# currently tinkering with
+Modern Frontend: React, state management, and lightweight, responsive UX.
 
-### `# yang lagi gua ulik`
+Dev Workflow: Automation, lightweight CI/CD pipelines, and clean code practices.
 
-* **Frontend modern**: React, ngaturnya state management, sama UX yang kerasa enteng pas dipakai.
-* **Workflow dev**: otomasi, CI/CD simpel, dan kebiasaan nulis kode yang rapi.
-* **Belajar in public**: ngedokumentasiin prosesnya, bukan cuma pajang hasil akhir doang.
+Learning in Public: Documenting the process, not just showcasing the final product.
 
-### `# fokus sekarang`
+# current focus
+Writing readable code: Naming variables, functions, and structures so clearly that their intent is obvious.
 
-* **Nulis kode yang gampang dibaca**: variabel, fungsi, sama struktur yang maksudnya langsung ketebak.
-* **Selesai > sempurna**: beresin proyek sampe beneran bisa dipakai, baru dipoles belakangan.
+Done > Perfect: Shipping functional projects first, then polishing them later.
 
-### `# cara gua mandang codingan`
+# my coding philosophy
+Good code is like a conversation, not a monologue. Written so others (including me 6 months from now) can understand it without an explanation.
 
-* **Kode yang bagus itu kayak percakapan, bukan ngomong sendiri.** Ditulis biar orang lain (termasuk gue sendiri 6 bulan lagi) bisa paham tanpa perlu dijelasin ulang.
-* Fitur yang keren tapi gak ada yang pake, sama aja boong.
-* **Belajar paling cepet itu ya pas bikin sesuatu yang nyata**, bukan cuma sekadar nonton tutorial.
+A cool feature that nobody uses is a waste of time.
 
-### `# tech stack`
+The fastest way to learn is by building real things, not just passively watching tutorials.
 
-* **Web**: JavaScript, PHP, React, Laravel
-* **Mobile**: Dart, Flutter
-* **Database & Cloud**: Firebase, MySQL
+# tech stack
+Web: JavaScript, PHP, React, Laravel
 
-### `# kalau mau ngobrol`
+Mobile: Dart, Flutter
 
-* Tertarik diskusi soal web development, arsitektur frontend, atau proyek open-source?
-* Kontak gue aja lewat [Email](mailto:tiotamamul@gmail.com) — selalu seneng buat tuker pikiran.
+Database & Cloud: Firebase, MySQL
 
----
-Terakhir di-update: lagi bikin sesuatu yang baru
+# let's connect
+Interested in discussing web development, frontend architecture, or open-source projects?
+
+Reach out via Email — always up for a good tech discussion.
+
+Last updated: currently building something new
