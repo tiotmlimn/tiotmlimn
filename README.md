@@ -1,219 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Hi%20There,%20I'm%20Tio%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Problem%20Solver%20·%20Lifelong%20Learner&descAlignY=55&descSize=18" />
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1A1A2E&height=200&section=header&text=TIO&fontSize=70&fontColor=C9A227&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20DEVELOPER&descAlignY=65&descSize=16&descColor=E8E8E8" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Halo,%20Saya%20Tio%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Problem%20Solver%20·%20Pembelajar%20Sejati&descAlignY=55&descSize=18" />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=520&lines=Selamat+datang+di+profil+GitHub+saya!+%F0%9F%91%8B;Saya+membangun+hal-hal+di+web+%F0%9F%92%BB;Selalu+belajar+hal+baru+%F0%9F%8C%B1;Terbuka+untuk+kolaborasi+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=480&lines=Membangun+dengan+detail.;Berpikir+dengan+tenang.;Belajar+tanpa+henti." alt="Typing SVG" />
 
-<a href="https://github.com/tiotmlimn">
-  <img src="https://komarev.com/ghpvc/?username=tiotmlimn&label=Kunjungan%20Profil&color=2E9EF7&style=for-the-badge" alt="Profile views" />
-</a>
-<img src="https://img.shields.io/github/followers/tiotmlimn?label=Pengikut&style=for-the-badge&color=8E2DE2&logo=github" alt="Followers" />
+<br><br>
+
+<img src="https://img.shields.io/badge/-Indonesia-0D1117?style=flat-square&labelColor=0D1117" height="24" />
+<img src="https://komarev.com/ghpvc/?username=tiotmlimn&label=Kunjungan&color=1A1A2E&style=flat-square" height="24" />
 
 </div>
 
 <br>
 
-## 🚀 Tentang Saya
-
-```yaml
-nama: Tio
-peran: Software Developer
-lokasi: Indonesia 🇮🇩
-sedang_dikerjakan: Membangun proyek pribadi & open-source yang seru
-sedang_dipelajari: Framework baru & teknologi cloud
-ingin_berkolaborasi: Proyek open-source
-butuh_bantuan: Scaling backend system
-tanya_saya_soal: [Pengembangan Web, JavaScript/TypeScript, API]
-kontak: your-email@example.com
-fakta_menarik: "Saya mengubah kopi jadi kode ☕ ➡️ 💻"
-```
-
-<br>
-
-## 🛠️ Tumpukan Teknologi
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind,git,github,figma,vscode,mysql,mongodb,docker&theme=dark" alt="Tech stack icons" />
-
+<sub>／ SEBUAH PERKENALAN SINGKAT ／</sub>
 </div>
 
 <br>
 
-## 📊 Statistik GitHub
+<table align="center">
+<tr>
+<td width="600">
+
+Saya seorang *software developer* yang menyukai kesederhanaan dalam kode dan kejelasan dalam berpikir. Sebagian besar waktu saya dihabiskan membangun aplikasi web, mengeksplorasi arsitektur backend, dan sesekali tersesat di dokumentasi teknologi baru.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiotmlimn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E2DE2&locale=id" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiotmlimn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&locale=id" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiotmlimn&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=8E2DE2&locale=id" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiotmlimn&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" alt="Activity graph" width="100%" />
+|  |  |
+|:---|:---|
+| 🔭 &nbsp; **Sedang dikerjakan** | Proyek pribadi & kontribusi open-source |
+| 🌱 &nbsp; **Sedang dipelajari** | Arsitektur cloud & sistem terdistribusi |
+| 🤝 &nbsp; **Terbuka untuk** | Kolaborasi proyek open-source |
+| 💬 &nbsp; **Diskusi favorit** | JavaScript/TypeScript, desain API, clean code |
+| ✉️ &nbsp; **Kontak** | your-email@example.com |
 
 </div>
 
 <br>
 
-## 🐍 Animasi Kontribusi
+<div align="center">
+<sub>／ PERANGKAT & TEKNOLOGI ／</sub>
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tiotmlimn/tiotmlimn/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-<sub>✨ Animasi ini aktif otomatis lewat GitHub Actions — lihat catatan setup di bawah.</sub>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,figma,docker,mysql&theme=dark&perline=6" alt="Tech stack" />
 
 </div>
 
 <br>
 
-## 📌 Proyek Unggulan
+<div align="center">
+<sub>／ SEKILAS AKTIVITAS ／</sub>
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/tiotmlimn/repo-satu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-satu&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/tiotmlimn/repo-dua">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-dua&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=tiotmlimn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=E8E8E8&hide_rank=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiotmlimn&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&langs_count=6" alt="Top languages" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiotmlimn&hide_border=true&bg_color=0D1117&color=C9A227&line=C9A227&point=E8E8E8&area=true&area_color=C9A227" alt="Activity graph" width="90%" />
 
 </div>
 
 <br>
-
-## 🌐 Terhubung dengan Saya
 
 <div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://your-portfolio-site.com">
-  <img src="https://img.shields.io/badge/Portofolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
+<sub>／ PROYEK PILIHAN ／</sub>
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" />
-
-<div align="center">
-<i>⭐ Terima kasih sudah mampir — jangan sungkan untuk melihat-lihat repository saya!</i>
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%8C%B1;Open+to+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
-
-<a href="https://github.com/tiotmlimn">
-  <img src="https://komarev.com/ghpvc/?username=tiotmlimn&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile views" />
-</a>
-<img src="https://img.shields.io/github/followers/tiotmlimn?label=Followers&style=for-the-badge&color=8E2DE2&logo=github" alt="Followers" />
-
-</div>
-
-<br>
-
-## 🚀 About Me
-
-```yaml
-name: Tio
-role: Software Developer
-location: Indonesia 🇮🇩
-current_focus: Building exciting personal & open-source projects
-learning: New frameworks & cloud technologies
-collab_interest: Open-source projects
-looking_for_help: Scaling backend systems
-ask_me_about: [Web Development, JavaScript/TypeScript, APIs]
-contact: your-email@example.com
-fun_fact: "I turn coffee into code ☕ ➡️ 💻"
-```
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind,git,github,figma,vscode,mysql,mongodb,docker&theme=dark" alt="Tech stack icons" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tiotmlimn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E2DE2" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiotmlimn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiotmlimn&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=8E2DE2" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiotmlimn&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" alt="Activity graph" width="100%" />
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tiotmlimn/tiotmlimn/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
-
-<sub>✨ Aktifkan animasi ini otomatis lewat GitHub Actions — lihat catatan setup di bawah.</sub>
-
-</div>
-
-<br>
-
-## 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/tiotmlimn/repo-satu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-satu&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-satu&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227" />
 </a>
 <a href="https://github.com/tiotmlimn/repo-dua">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-dua&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-dua&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227" />
 </a>
 
 </div>
 
 <br>
 
-## 🌐 Connect with Me
+<div align="center">
+<sub>／ TERHUBUNG ／</sub>
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://your-portfolio-site.com">
-  <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C9A227" /></a>
+<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=C9A227" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=C9A227" /></a>
+<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portofolio-0D1117?style=flat-square&logo=googlechrome&logoColor=C9A227" /></a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,100:0D1117&height=100&section=footer" />
 
 <div align="center">
-<i>⭐ Thanks for stopping by — feel free to explore my repositories!</i>
+<sub>"Kode yang baik ditulis untuk manusia, bukan hanya untuk mesin."</sub>
 </div>
