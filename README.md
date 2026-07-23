@@ -14,7 +14,7 @@
 -----------------------|||--------------||-||------||-||-------
                        |__>             || ||      || ||
 
-    pencet tombol apa aja buat lanjut
+    arghhhhhhhh error sialannn!!!!
 
 ```
 
