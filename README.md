@@ -1,123 +1,56 @@
-<div align="center">
+```
+                    _____________
+                   |  _________  |
+                   | | > _      | |
+                   | |__________| |
+                   |______________|
+                  /|_______________|\
+                 / /                 \ \
+                /_/___________________\_\
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:1A1A2E&height=200&section=header&text=TIO&fontSize=70&fontColor=C9A227&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20DEVELOPER&descAlignY=65&descSize=16&descColor=E8E8E8" />
+        booting profile.md ... [ OK ]
+```
 
-<br>
+### `$ SOFTWARE ENGINEER • WEB DEVELOPER • LIFELONG LEARNER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=3500&pause=1200&color=C9A227&center=true&vCenter=true&width=480&lines=Membangun+dengan+detail.;Berpikir+dengan+tenang.;Belajar+tanpa+henti." alt="Typing SVG" />
+Halo, saya Tio 👋
 
-<br><br>
+Saya suka membangun **hal-hal yang benar-benar berjalan** — bukan cuma tampilan yang bagus, tapi sistem yang jelas alurnya, mudah dirawat, dan enak dipakai. Sebagian besar waktu saya habis di antara kode frontend, desain API, dan debugging jam 1 pagi.
 
-<img src="https://img.shields.io/badge/-Indonesia-0D1117?style=flat-square&labelColor=0D1117" height="24" />
-<img src="https://komarev.com/ghpvc/?username=tiotmlimn&label=Kunjungan&color=1A1A2E&style=flat-square" height="24" />
+### `# yang sedang saya jelajahi`
 
-</div>
+- **Frontend modern**: React, state management, dan UX yang terasa ringan dipakai.
+- **Desain backend & API**: struktur data, kontrak API yang jelas, dan keamanan dasar.
+- **Alur kerja developer**: otomasi, CI/CD sederhana, dan kebiasaan coding yang rapi.
+- **Belajar in public**: mendokumentasikan proses, bukan cuma hasil akhir.
 
-<br>
+### `# yang sedang saya bangun`
 
-<div align="center">
-<sub>／ SEBUAH PERKENALAN SINGKAT ／</sub>
-</div>
+- **[Nama Proyek Satu](https://github.com/tiotmlimn/repo-satu)** — deskripsi singkat proyek ini, apa masalah yang diselesaikan.
+- **[Nama Proyek Dua](https://github.com/tiotmlimn/repo-dua)** — deskripsi singkat proyek ini, apa yang membuatnya menarik.
 
-<br>
+### `# fokus saat ini`
 
-<table align="center">
-<tr>
-<td width="600">
+- **Menulis kode yang mudah dibaca**: variabel, fungsi, dan struktur yang jelas maksudnya.
+- **Selesai > sempurna**: mendorong proyek sampai benar-benar dipakai, baru dipoles.
 
-Saya seorang *software developer* yang menyukai kesederhanaan dalam kode dan kejelasan dalam berpikir. Sebagian besar waktu saya dihabiskan membangun aplikasi web, mengeksplorasi arsitektur backend, dan sesekali tersesat di dokumentasi teknologi baru.
+### `# cara saya berpikir soal coding`
 
-</td>
-</tr>
-</table>
+- **Kode yang baik itu percakapan, bukan monolog.** Ditulis supaya orang lain (termasuk diri saya 6 bulan lagi) bisa mengerti tanpa penjelasan tambahan.
+- Fitur yang keren tapi tidak dipakai orang, sama saja dengan tidak ada.
+- **Belajar paling cepat terjadi saat membangun sesuatu yang nyata**, bukan sekadar membaca tutorial.
 
-<br>
+### `# tumpukan yang sering saya pakai`
 
-<div align="center">
+- **Bahasa**: JavaScript, TypeScript, Python
+- **Framework**: React, Node.js, Express
+- **Lainnya**: Git, Docker, MySQL, sedikit dari mana-mana
 
-|  |  |
-|:---|:---|
-| 🔭 &nbsp; **Sedang dikerjakan** | Proyek pribadi & kontribusi open-source |
-| 🌱 &nbsp; **Sedang dipelajari** | Arsitektur cloud & sistem terdistribusi |
-| 🤝 &nbsp; **Terbuka untuk** | Kolaborasi proyek open-source |
-| 💬 &nbsp; **Diskusi favorit** | JavaScript/TypeScript, desain API, clean code |
-| ✉️ &nbsp; **Kontak** | your-email@example.com |
+### `# kalau mau ngobrol`
 
-</div>
+- Tertarik diskusi soal web development, arsitektur frontend, atau proyek open-source?
+- Hubungi saya lewat [LinkedIn](https://linkedin.com/in/your-linkedin) atau [Email](mailto:your-email@example.com) — selalu senang bertukar pikiran.
 
-<br>
+---
 
-<div align="center">
-<sub>／ PERANGKAT & TEKNOLOGI ／</sub>
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,figma,docker,mysql&theme=dark&perline=6" alt="Tech stack" />
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>／ SEKILAS AKTIVITAS ／</sub>
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tiotmlimn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=E8E8E8&hide_rank=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiotmlimn&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&langs_count=6" alt="Top languages" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tiotmlimn&hide_border=true&bg_color=0D1117&color=C9A227&line=C9A227&point=E8E8E8&area=true&area_color=C9A227" alt="Activity graph" width="90%" />
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>／ PROYEK PILIHAN ／</sub>
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/tiotmlimn/repo-satu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-satu&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227" />
-</a>
-<a href="https://github.com/tiotmlimn/repo-dua">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiotmlimn&repo=repo-dua&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E8E8E8&icon_color=C9A227" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>／ TERHUBUNG ／</sub>
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=C9A227" /></a>
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=C9A227" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=C9A227" /></a>
-<a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portofolio-0D1117?style=flat-square&logo=googlechrome&logoColor=C9A227" /></a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1A2E,100:0D1117&height=100&section=footer" />
-
-<div align="center">
-<sub>"Kode yang baik ditulis untuk manusia, bukan hanya untuk mesin."</sub>
-</div>
+<sub>terakhir diperbarui: sedang membangun sesuatu yang baru</sub>
