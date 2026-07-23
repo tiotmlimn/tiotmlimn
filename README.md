@@ -30,11 +30,6 @@ Saya suka membangun **hal-hal yang benar-benar berjalan** — bukan cuma tampila
 - **Alur kerja developer**: otomasi, CI/CD sederhana, dan kebiasaan coding yang rapi.
 - **Belajar in public**: mendokumentasikan proses, bukan cuma hasil akhir.
 
-### `# yang sedang saya bangun`
-
-- **[Nama Proyek Satu](https://github.com/tiotmlimn/repo-satu)** — deskripsi singkat proyek ini, apa masalah yang diselesaikan.
-- **[Nama Proyek Dua](https://github.com/tiotmlimn/repo-dua)** — deskripsi singkat proyek ini, apa yang membuatnya menarik.
-
 ### `# fokus saat ini`
 
 - **Menulis kode yang mudah dibaca**: variabel, fungsi, dan struktur yang jelas maksudnya.
@@ -48,14 +43,14 @@ Saya suka membangun **hal-hal yang benar-benar berjalan** — bukan cuma tampila
 
 ### `# tumpukan yang sering saya pakai`
 
-- **Bahasa**: JavaScript, TypeScript, Python
-- **Framework**: React, Node.js, Express
+- **Bahasa**: JavaScript, Dart, Php
+- **Framework**: Node.js,Flutter,Laravel
 - **Lainnya**: Git, Docker, MySQL, sedikit dari mana-mana
 
 ### `# kalau mau ngobrol`
 
 - Tertarik diskusi soal web development, arsitektur frontend, atau proyek open-source?
-- Hubungi saya lewat [LinkedIn](https://linkedin.com/in/your-linkedin) atau [Email](mailto:your-email@example.com) — selalu senang bertukar pikiran.
+- Hubungi saya lewat [Email](tiotamamul@gmail.vcom) — selalu senang bertukar pikiran.
 
 ---
 
